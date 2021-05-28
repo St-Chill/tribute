@@ -1,0 +1,11 @@
+.arrow{
+    transform: rotate(180deg);
+    position: relative;
+    right: 1400px;
+    top: 40px;
+}
+body{
+    background-image: url("conspiracybackground.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
