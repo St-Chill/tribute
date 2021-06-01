@@ -1,0 +1,47 @@
+body{background-image: url("contact_ed.png");
+background-size: cover;}
+
+
+/*back button*/
+
+
+/*input divs*/
+
+.name {
+   padding-left: 700px;
+   padding-top: 90px;
+   margin-top: 20px;
+    font-size: 50px;
+    height:3px;
+}
+
+
+
+.lname {
+    padding-left: 700px;
+    padding-top: 110px;
+
+}
+.email {
+    padding-left: 700px;
+    padding-top: 50px;
+
+
+}
+
+.location{
+    padding-left: 750px;
+    padding-top: 30px;
+}
+
+.question{
+    padding-left: 700px;
+    padding-top: 30px;
+
+ }
+
+ .button{
+     padding-left: 750;
+ }
+
+ 
